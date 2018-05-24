@@ -1,9 +1,7 @@
 # boilerplate
 
-**DEPRECATED: Use [v1-boilerplate](https://github.com/tomdaniels/v1-boilerplate)**
-> I don't like redux ;)
-
-A boiler plate for more scalable client side apps.
+**DEPRECATED: Use [react-boilerplate](https://github.com/tomdaniels/react-boilerplate)**
+> I don't like redux ;), and prefer chai & mocha to jest..
 
 ## Out of the box?
 
